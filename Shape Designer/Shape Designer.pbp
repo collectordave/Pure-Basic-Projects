@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.50 (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="Shape Designer"/>
+    <comment>Shape Designer for The Vector Icon Designer Project</comment>
+  </section>
+  <section name="data">
+    <explorer view="..\..\Program Files (x86)\PureBasic\Examples\" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2016-12-20 04:55" user="DaveSandy" host="MEDIAPC"/>
+  </section>
+  <section name="files">
+    <file name="dlgChooseElement.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="91e0bed935be3acb2dd343f168609eb1"/>
+    </file>
+    <file name="dlgEditPath.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="acac42f3f81e9d50e3ef14e1ccfa7080"/>
+    </file>
+    <file name="dlgLoadShape.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="335f48cdadf090434db18f4f1cbf22f6"/>
+    </file>
+    <file name="dlgNewShape.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="c9756151c9ce43144c8a04be0991d452"/>
+    </file>
+    <file name="DrawArc.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="8ea64021897b96fd2a31617869ed9054"/>
+    </file>
+    <file name="DrawBox.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="dc90a2220f7c0dd3fb41e7e6635abaed"/>
+    </file>
+    <file name="DrawCircle.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="04a51443cbea83d4898d37c2591ea144"/>
+    </file>
+    <file name="DrawCurve.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="0ee7c09a2520a90b5535cc3af36a9a70"/>
+    </file>
+    <file name="DrawEllipse.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="b18dca286058438533fca8a860bc6343"/>
+    </file>
+    <file name="DrawLine.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="48b21c57e413fc159934e9ec4ad77357"/>
+    </file>
+    <file name="DrawPath.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="117e84d6783a087c04ab6ef849821b2b"/>
+    </file>
+    <file name="shpMain.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="904f51899cf1c5fba099f46263b35ccb"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Default Target" enabled="1" default="1">
+      <inputfile value="shpMain.pb"/>
+      <outputfile value="Shape Designer.exe"/>
+      <executable value="Shape Designer.exe"/>
+      <options xpskin="1" debug="1"/>
+      <icon enable="0">..\Vector Icons (New)\photo.png</icon>
+    </target>
+  </section>
+</project>
