@@ -1,2 +1,2 @@
-# Pure-Basic-Projects
+# PureBasic-Projects
 repository for PureBasic projects
